@@ -6,9 +6,9 @@ UTFPR - Campus Campo Mourão
 
 ---
 ## 📚 Atualmente estudo:
-- Desenvolvimento de Web II
-- Análise e Projeto de Sistemas
-- Redes de Computadores
+- Desenvolvimento de Web III
+- Projeto Integrador
+
 
 
 ## 💻 Linguagens Utilizadas
